@@ -1,11 +1,17 @@
 ### Oi eu sou Kelvin Pimenta Dias 
 - 🌱 Estou estudando HTML, CSS e um pouco de JS ...
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KelvinPD&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-  <br> <!-- Espaço extra aqui -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinPD&layout=compact" alt="Top Langs" />
-</p>
+<table>
+  <tr>
+    <td style="padding-right: 15px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=KelvinPD&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinPD&layout=compact" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
 
 
 
