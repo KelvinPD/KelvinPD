@@ -1,7 +1,7 @@
 ### Oi eu sou Kelvin Pimenta Dias 
 - 🌱 Estou estudando HTML, CSS e um pouco de JS ...
 
-<table>
+<table style="border: none;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=KelvinPD&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
