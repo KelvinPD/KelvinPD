@@ -2,9 +2,10 @@
 - 🌱 Estou estudando HTML, CSS e um pouco de JS ...
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KelvinPD&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinPD&layout=compact" alt="Top Langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KelvinPD&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="margin-right: 10px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinPD&layout=compact" alt="Top Langs" style="margin-left: 10px;" />
 </p>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kelvin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
